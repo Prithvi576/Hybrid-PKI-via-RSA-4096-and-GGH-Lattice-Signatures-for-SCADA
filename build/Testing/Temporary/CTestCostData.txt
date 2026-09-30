@@ -1,0 +1,4 @@
+test_rsa 6 0.28712
+test_ggh 6 0.0143289
+test_hybrid 6 0.0799623
+---
