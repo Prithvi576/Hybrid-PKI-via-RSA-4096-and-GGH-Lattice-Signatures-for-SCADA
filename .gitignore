@@ -1,3 +1,30 @@
-*.exe
+# Build products
+/build/
+/out/
+/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.obj
 *.o
-*.out
+*.a
+*.lib
+*.dll
+*.exe
+/third_party/
+
+# Private keys, certificates, and local cryptographic runtime material
+*.key
+*.pem
+*.p12
+*.pfx
+*.der
+/keys/
+/runtime/
+
+# Local logs, temporary data, and generated measurement output
+*.log
+*.tmp
+*.bak
+/results/benchmarks/*
+/results/test_results/*
+/results/screenshots/*
