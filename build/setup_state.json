@@ -1,8 +1,0 @@
-﻿{
-    "completedUtc":  "2026-09-28T19:06:43.0539231Z",
-    "cmake":  "C:\\mingw64\\bin\\cmake.exe",
-    "toolchain":  "C:\\mingw64",
-    "opensslRoot":  "C:\\Program Files\\OpenSSL-Win64",
-    "guiFramework":  "Win32 native",
-    "compilerVersion":  "g++.exe (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r4) 16.1.0"
-}
